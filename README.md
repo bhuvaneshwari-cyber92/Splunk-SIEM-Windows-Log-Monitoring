@@ -100,3 +100,19 @@ Screenshots and supporting documentation will be added to this repository as the
 **Project Type:** Hands-on Cybersecurity / SIEM Lab  
 **Environment:** Local Virtual Lab  
 **Platform:** Windows 11 and Splunk
+## Screenshots and Lab Evidence
+
+### 1. Splunk Enterprise Home
+![Splunk Enterprise Home](Screenshot%202026-11-17%20144405.png)
+
+### 2. Splunk Receiving Port 9997
+![Receiving Port 9997](Screenshot%202026-11-17%20144629.png)
+
+### 3. Windows Event Collection
+![Windows Event Collection](Screenshot%202026-11-17%20163040.png)
+
+### 4. Security Event Search Results
+![Security Event Search](Screenshot%202026-11-17%20163558.png)
+
+### 5. Security Event Statistics
+![Security Event Statistics](Screenshot%202026-11-17%20163627.png)
