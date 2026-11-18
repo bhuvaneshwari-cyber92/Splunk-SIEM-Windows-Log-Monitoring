@@ -86,9 +86,19 @@ index=main sourcetype="WinEventLog:Security"
 - SPL searches and event analysis
 - Virtual machine management
 
-## Project Evidence
+## Project Evidence and Documentation
 
-Screenshots and supporting documentation will be added to this repository as the project documentation is completed.
+The project implementation and testing evidence are included in this repository.
+
+The repository contains:
+
+- Lab architecture diagram showing the two-VM Splunk environment.
+- Screenshots of Splunk Enterprise configuration and Windows Security event collection.
+- Windows Event Log collection configuration (`inputs.conf`).
+- Splunk SPL queries for Windows Security event investigation.
+- Verified results demonstrating successful event forwarding and log searches.
+
+These materials document the lab setup, configuration, connectivity testing, and event collection process.
 
 ## Future Improvements
 
