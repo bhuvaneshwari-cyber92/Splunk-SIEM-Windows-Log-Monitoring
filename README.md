@@ -118,3 +118,17 @@ Screenshots and supporting documentation will be added to this repository as the
 
 ### 5. Security Event Statistics
 ![Security Event Statistics](Screenshot%202026-11-17%20163627.png)
+## Configuration and SPL Documentation
+
+### Windows Event Log Configuration
+[View inputs.conf](configs/inputs.conf)
+
+### Windows Security Investigation Queries
+[View SPL Search Queries](queries/windows-security-searches.md)
+
+The query documentation includes examples for:
+- Windows Security event monitoring
+- Event code analysis
+- Failed logon investigation
+- Successful logon investigation
+- Event counts by host and source
