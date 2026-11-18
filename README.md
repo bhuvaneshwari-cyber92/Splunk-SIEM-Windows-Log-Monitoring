@@ -7,9 +7,7 @@ This project demonstrates the deployment of a basic Security Information and Eve
 The objective was to collect Windows Event Logs from an endpoint, forward them to a central Splunk server, and search and analyse the collected security events.
 
 ## Lab Architecture
-### Architecture Diagram
 
-![Splunk SIEM Lab Architecture](splunk-architecture.png)
 | Component | Configuration |
 |---|---|
 | SIEM Server | Windows 11 – Splunk Enterprise |
